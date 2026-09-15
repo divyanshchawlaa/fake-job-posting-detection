@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
-
+notebooks/nltk_data/
 data/fake_job_postings_cleaned.csv
