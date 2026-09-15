@@ -1,5 +1,6 @@
 ---
-title: "\U0001F50D AI-Based Fake Job Posting Detection Using Natural Language Processing and Machine Learning"
+title: "\U0001F50D AI-Based Fake Job Posting Detection Using Natural Language Processing
+  and Machine Learning"
 author: "Divyansh Chawla"
 date: "September 2026"
 output:
@@ -9,16 +10,18 @@ output:
     fig_caption: true
     df_print: paged
     self_contained: true
+  pdf_document:
+    toc: true
 fontsize: 11pt
 geometry: margin=1in
 linestretch: 1.15
 header-includes:
-  - \usepackage{booktabs}
-  - \usepackage{longtable}
-  - \usepackage{array}
-  - \usepackage{float}
-  - \usepackage{graphicx}
-  - \usepackage{hyperref}
+- \usepackage{booktabs}
+- \usepackage{longtable}
+- \usepackage{array}
+- \usepackage{float}
+- \usepackage{graphicx}
+- \usepackage{hyperref}
 ---
 
 # Student Information
