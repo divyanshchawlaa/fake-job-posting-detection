@@ -2,6 +2,16 @@
 
 An AI application that uses Natural Language Processing (NLP) and Machine Learning to identify potentially fraudulent job postings.
 
+---
+
+## Video Demonstration
+
+A video demonstration of the Streamlit application, including testing with real, fraudulent and external job postings, is available on YouTube:
+
+[▶️ Watch the Video Demonstration](https://youtu.be/8nLeCIkxAKw)
+
+---
+
 ## Project Overview
 
 Fake job advertisements are a problem for online recruitment platforms. Fraudulent postings can be used to collect personal information, request payments, or mislead job seekers. At the same time, manually checking a large number of job postings can be time-consuming.
