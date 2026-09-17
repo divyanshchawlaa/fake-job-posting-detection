@@ -32,9 +32,10 @@ header-includes:
 | Student ID | GH1031116 |
 | Module | AI Applications for Digital Business |
 | Project Title | AI-Based Fake Job Posting Detection Using Natural Language Processing and Machine Learning |
-| GitHub Repository | https://github.com/divyanshchawlaa/fake-job-posting-detection |
+| GitHub Repository | [GitHub Repository](https://github.com/divyanshchawlaa/fake-job-posting-detection) |
+| Video Demonstration | [YouTube Video Demonstration](https://youtu.be/8nLeCIkxAKw) |
 
-<div style="page-break-after: always;"></div>
+
 
 # 1. Research Question and Problem Statement
 
@@ -397,9 +398,15 @@ For a real recruitment platform, the most practical next step would be to combin
 
 The complete implementation, including the NLP pipeline, trained model, vectorizer, Streamlit application and project documentation, is available in the GitHub repository:
 
-https://github.com/divyanshchawlaa/fake-job-posting-detection
+[GitHub Repository](https://github.com/divyanshchawlaa/fake-job-posting-detection)
 
-# 13. References
+# 13. Video Demonstration
+
+A video demonstration of the Streamlit application, including the testing of real, fraudulent and external job postings, is available on YouTube:
+
+[YouTube Video Demonstration](https://youtu.be/8nLeCIkxAKw)
+
+# 14. References
 
 - Bansal, S. (2019) *Real or Fake? Fake Jobposting Prediction*. Kaggle. Available at: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
